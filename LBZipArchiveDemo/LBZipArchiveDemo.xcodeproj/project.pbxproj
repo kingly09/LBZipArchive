@@ -103,6 +103,7 @@
 		BC2E09671C23B76E00611AD2 /* LBZipArchiveDemo */ = {
 			isa = PBXGroup;
 			children = (
+				BC2E099E1C23B80900611AD2 /* LBZipArchive */,
 				BC2E096B1C23B76E00611AD2 /* AppDelegate.h */,
 				BC2E096C1C23B76E00611AD2 /* AppDelegate.m */,
 				BC2E096E1C23B76E00611AD2 /* ViewController.h */,
@@ -141,6 +142,14 @@
 				BC2E09921C23B76F00611AD2 /* Info.plist */,
 			);
 			path = LBZipArchiveDemoUITests;
+			sourceTree = "<group>";
+		};
+		BC2E099E1C23B80900611AD2 /* LBZipArchive */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = LBZipArchive;
+			path = ../../LBZipArchive;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
